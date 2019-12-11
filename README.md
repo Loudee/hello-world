@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository. 
 This file has been changed from the original
